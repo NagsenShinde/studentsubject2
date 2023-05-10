@@ -1,0 +1,63 @@
+2023-05-05 10:59:03,718--before authentication 
+2023-05-05 10:59:03,927--After authentication 
+2023-05-05 10:59:03,927--mjhdjhdjkj 
+2023-05-05 11:06:06,381--before authentication 
+2023-05-05 11:06:06,604--After authentication 
+2023-05-05 11:06:06,604--mjhdjhdjkj 
+2023-05-05 11:06:06,606--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjQ5NjYsImV4cCI6MTY4MzI2Njc2Nn0.Bh3XGKMZJTNbXJp7EHzOY_71fq3X4Glqp_4eqzDOx0Y 
+2023-05-05 11:07:32,813--before authentication 
+2023-05-05 11:07:33,026--After authentication 
+2023-05-05 11:07:33,026--mjhdjhdjkj 
+2023-05-05 11:07:33,027--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjUwNTMsImV4cCI6MTY4MzI2Njg1M30.D9oRi68_CMANd1vxWwFdyNNBiTMpXfjw03myd8_J5P0 
+2023-05-05 11:08:34,731--before authentication 
+2023-05-05 11:08:34,945--After authentication 
+2023-05-05 11:08:34,945--mjhdjhdjkj 
+2023-05-05 11:08:34,947--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjUxMTQsImV4cCI6MTY4MzI2NjkxNH0.6MbiqCom62L63YOuvTCErhVPAcBHvCgr1GsuhueL5ow 
+2023-05-05 11:15:49,987--before authentication 
+2023-05-05 11:15:50,216--After authentication 
+2023-05-05 11:15:50,216--mjhdjhdjkj 
+2023-05-05 11:15:50,218--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjU1NTAsImV4cCI6MTY4MzI2NzM1MH0.kgPzz8fxAayuQWghR0A9gRQpGLgSBSwjFnUdLnupsIk 
+2023-05-05 11:16:50,280--before authentication 
+2023-05-05 11:16:50,506--After authentication 
+2023-05-05 11:16:50,506--mjhdjhdjkj 
+2023-05-05 11:16:50,508--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjU2MTAsImV4cCI6MTY4MzI2NzQxMH0.TeDF7zrg2bCoANcWscptUoxHmIvQ1E3UuGYAgFv2Cl4 
+2023-05-05 11:19:56,396--before authentication 
+2023-05-05 11:19:56,615--After authentication 
+2023-05-05 11:19:56,615--mjhdjhdjkj 
+2023-05-05 11:19:56,616--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjU3OTYsImV4cCI6MTY4MzI2NzU5Nn0.yHSn15AJHeqZWwWRBC2nnhHeaktu5F6WlnWCidnOePI 
+2023-05-05 11:26:15,525--before authentication 
+2023-05-05 11:26:15,740--After authentication 
+2023-05-05 11:26:15,740--mjhdjhdjkj 
+2023-05-05 11:26:15,742--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjYxNzUsImV4cCI6MTY4MzI2Nzk3NX0.5tvQotsBk3X582j5kd9fvG8BdCPW1SKCoPS1C3cfTAQ 
+2023-05-05 11:29:18,260--before authentication 
+2023-05-05 11:29:18,478--After authentication 
+2023-05-05 11:29:18,478--mjhdjhdjkj 
+2023-05-05 11:29:18,480--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjYzNTgsImV4cCI6MTY4MzI2ODE1OH0.oiOLqKfUg6my-kqsCNJyPvKl3I53bDNpf_T7P5nPNAw 
+2023-05-05 11:31:51,903--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjY1MTEsImV4cCI6MTY4MzI2ODMxMX0.SCA8Y_2VuScD5BTLtEgcuqO7QCydKSJFBsowOJ0CflM 
+2023-05-05 11:33:04,877--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjY1ODQsImV4cCI6MTY4MzI2ODM4NH0.o3SE_beHRi5VbVq-hHI1xXB5HWoYQMGpl-zEBryi1RE 
+2023-05-05 11:33:18,081--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjY1OTgsImV4cCI6MTY4MzI2ODM5OH0.jrgKG2lWIScEhaSTMUfNCpWRlLUTY6NMPAEE7CeEOdg 
+2023-05-05 11:33:52,710--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjY2MzIsImV4cCI6MTY4MzI2ODQzMn0.E6fOORgOGa47FGkqPZcoI60s3AxG45-tBmPQrMowThk 
+2023-05-05-http-nio-8080-exec-2--INFO -studentSubject.controller.StudentInfoController:eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjcxMjgsImV4cCI6MTY4MzI2ODkyOH0.tgV6NEhMe33v-0PpLkppLsrTIlWmUTDx379i7yHHw4c
+2023-05-05--INFO--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjczNDMsImV4cCI6MTY4MzI2OTE0M30.3a_hsFwW_rcTEgwNhaNjSIYDN3PNYqsX5dOt0nwZ7WM
+2023-05-05--INFO--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjg4MDQsImV4cCI6MTY4MzI3MDYwNH0.fcimEaAfYuSrfUUyPRFlPy-850nrA04uvUTiiyjsBHU
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNjkwMTIsImV4cCI6MTY4MzI3MDgxMn0.LRYUFT9wLdqRB-BdQVA9IMcZ7b370aoNwcqwBiv0QNQ
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNzEwNDIsImV4cCI6MTY4MzI3Mjg0Mn0.JgVTYLHY_6Z-H_lO2dlIBbxRX-vF8uvIUtF4Jm2BShI
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNzEzNDUsImV4cCI6MTY4MzI3MzE0NX0.AetHXOIp-Mx6rVYidSm8KP4yXJ_oG8LR3DCVF-HRkh8
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--[StudentInfoEntity [studentId=22, studentRole=, studentPassword=$2a$10$NJKWe9HPIZyobL3OFNqWC.vdAew0RGp3CnY7N8IzbREXRk82F5s7O, studentName=Anuja, studentAddress=Nanded, studentContractNo=9527714454, studentEmailId=anuja@gmail.com, notificationTableEntity=[NotificationTableEntity [notificationId=3, operation=Get, message=Hi Cloudsmartz, sentDate=2023-04-04T00:00, createdDate=2023-04-04T00:00, SentTime=12:14:58, createdTime=12:14:58]]], StudentInfoEntity [studentId=26, studentRole=, studentPassword=$2a$10$jQsh/4UfsLP.6t/2V6wjI.qk71indD4/wEdFyz5C8juLJ5CmeQHya, studentName=Nagsen, studentAddress=Nanded, studentContractNo=9526374484, studentEmailId=nagsen@gmail.com, notificationTableEntity=[NotificationTableEntity [notificationId=5, operation=Get, message=Hi Nagsen , sentDate=2023-04-05T00:00, createdDate=2023-04-05T00:00, SentTime=10:43:57, createdTime=10:43:57]]]]
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJOYWdzZW4iLCJpYXQiOjE2ODMyNzE1NjIsImV4cCI6MTY4MzI3MzM2Mn0.pOrcPuygJJkLCUK4tuTo0ZCJEhVjkqXyYmUpInGMBjo
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
+2023-05-05--INFO--StudentInfoEntity [studentId=22, studentRole=, studentPassword=$2a$10$NJKWe9HPIZyobL3OFNqWC.vdAew0RGp3CnY7N8IzbREXRk82F5s7O, studentName=Anuja, studentAddress=Nanded, studentContractNo=9527714454, studentEmailId=anuja@gmail.com, notificationTableEntity=[NotificationTableEntity [notificationId=3, operation=Get, message=Hi Cloudsmartz, sentDate=2023-04-04T00:00, createdDate=2023-04-04T00:00, SentTime=12:14:58, createdTime=12:14:58]]]
+2023-05-05--INFO--javax.crypto.spec.SecretKeySpec@fa77f4ac
